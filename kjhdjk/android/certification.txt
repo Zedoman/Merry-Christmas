@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the GiftWrap Wizard 1.0
+---------------------------------------------------
+
+app_name - 						GiftWrap Wizard
+app_alias - 					giftwrapwizard
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				West Bengal
+app_author_country - 			India
+app_password - 					2rjnyhDAE4Sy
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Monday 25th of December 2023 07:15:18 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
